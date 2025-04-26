@@ -24,8 +24,8 @@ It simulates intelligent chat interactions and collects user feedback at the end
 1. **Clone the repository** or download the code:
 
 ```bash
-git clone https://github.com/Ompatel28102004/cli-gemini-chat.git
-cd cli-gemini-chat
+git clone https://github.com/Ompatel28102004/CLI-Chatbot-using-Gemini-API.git
+cd CLI-Chatbot-using-Gemini-API
 ```
 
 2. **Install the required packages**:
@@ -83,7 +83,7 @@ Thank you for chatting! Goodbye!
 
 ## 🔑 Gemini API Setup Guide
 
-- Visit [Google AI Studio](https://ai.google.dev/)
+- Visit [Google AI Studio](https://aistudio.google.com/app/u/1/apikey?pli=1)
 - Sign in with your Google account.
 - Go to **"Get API Key"**.
 - Copy your key and set it in the `.env` file as:
