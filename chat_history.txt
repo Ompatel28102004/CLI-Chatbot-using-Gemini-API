@@ -1,0 +1,12 @@
+User (2025-04-26 18:02:40): Hi there!
+Bot: Hello! How can I assist you today?
+
+
+User (2025-04-26 18:03:45): Tell me a single line joke.
+Bot: Why don't scientists trust atoms? Because they make up everything!
+
+
+User (2025-04-26 18:04:00): explain what is cryptography in short
+Bot: Cryptography is the art of securing communication by encoding information to prevent unauthorized access. Basically, it's turning readable data into unreadable code and back again, using secret keys.
+
+

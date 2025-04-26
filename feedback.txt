@@ -1,0 +1,5 @@
+Timestamp: 2025-04-26 18:05:34
+Rating: 5/5
+Review: Really enjoyed chatting!
+Sentiment: Positive
+--------------------------------------------------
