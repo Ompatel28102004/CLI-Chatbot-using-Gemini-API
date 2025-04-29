@@ -15,7 +15,6 @@ It simulates intelligent chat interactions and collects user feedback at the end
 - Python
 - Google Gemini API (Text Generation + Function Calling)
 - File I/O for feedback and chat history
-- NLTK (for sentiment analysis)
 
 ---
 
@@ -31,7 +30,7 @@ cd CLI-Chatbot-using-Gemini-API
 2. **Install the required packages**:
 
 ```bash
-pip install google-generativeai python-dotenv nltk
+pip install google-generativeai python-dotenv
 ```
 
 3. **Setup your environment variables**:
@@ -123,7 +122,6 @@ GEMINI_API_KEY=your_api_key_here
 
 ## 📌 Note
 - This project uses **Gemini Flash (2.0)** model for faster and efficient responses.
-- Sentiment analysis is implemented using **NLTK VADER** (bonus feature).
 
 ---
 
