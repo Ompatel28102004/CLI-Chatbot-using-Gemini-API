@@ -73,10 +73,26 @@ Why don't scientists trust atoms? Because they make up everything!
 You: bye
 I'm sorry to see you go! Before you leave, could you please provide a rating (1-5) and a quick review of your chat experience today? Your feedback helps me improve!
 
-Your feedback: Really enjoyed chatting!
-Your rating (1-5): 5
+Please share your thoughts about the chat experience: not baad
+
+On a scale of 1-5, how would you rate your experience?
+1: Very Dissatisfied | 2: Dissatisfied | 3: Neutral | 4: Satisfied | 5: Very Satisfied
+
+Your rating (1-5): 4
+
+Processing your feedback...
+
+--------------------------------------------------
+FEEDBACK SUMMARY
+--------------------------------------------------
+Rating: 4/5
+Review: Not bad
+Sentiment: Neutral
+
+Is this feedback correct? (y/n): y
 Feedback saved successfully to feedback.txt
-Thank you for chatting! Goodbye!
+Thank you for your feedback! Review: Not bad, Rating: 4/5
+Goodbye!
 ```
 
 ---
